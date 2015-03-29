@@ -16,6 +16,7 @@
 - [papercraft](https://github.com/osresearch/papercraft) - Unfolding STL models to make laser cut patterns.
 - [stltwalker](https://github.com/sshirokov/stltwalker) - A scriptable interface for STL transformation and accumulation (written in C).
 - [plater.me](http://plater.me) - Auto-layout of STL files on print-bed.
+- [hmstl](https://github.com/anoved/hmstl) - Generate STL triangle meshes from grayscale height-map images.
 
 
 ## Host Software
