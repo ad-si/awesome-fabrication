@@ -25,3 +25,9 @@
 - [Printrun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
 - [Repetier](http://repetier.com) - All in one 3D-printing software.
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
+
+
+## Slicer
+
+- [kisslicer](http://kisslicer.com) - Fast easy-to-use cross-platform slicer.
+- [slic3r](http://slic3r.org/) - G-code generator for 3D printers.
