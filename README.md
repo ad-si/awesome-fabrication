@@ -22,6 +22,7 @@
 ## Host Software
 
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
+- [LaserWeb](https://github.com/LaserWeb/LaserWeb4) - Self hosted web interface for your laser or cnc mill.
 - [octoprint.org](http://octoprint.org) - Self hosted web interface for your 3D printer.
 - [Printrun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
 - [Repetier](http://repetier.com) - All in one 3D-printing software.
