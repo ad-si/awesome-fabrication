@@ -1,5 +1,9 @@
 # Awesome Fabrication
 
+A curated list of awesome fabrication resources.
+
+**Table Of Contents**
+
 <!-- toc -->
 
 - [Viewer](#viewer)
@@ -9,7 +13,7 @@
 
 <!-- tocstop -->
 
-## Viewer
+## 3D Viewer
 
 - [3dviewer.net] - Online 3D Model Viewer.
 - [gcode-viewer] - Web-based 3D viewer for GCode files.
