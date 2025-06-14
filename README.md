@@ -6,7 +6,7 @@ A curated list of awesome fabrication resources.
 
 <!-- toc -->
 
-- [Viewer](#viewer)
+- [3D Viewer](#3d-viewer)
 - [Converter](#converter)
 - [Host Software](#host-software)
 - [Slicer](#slicer)
