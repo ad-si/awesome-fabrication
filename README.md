@@ -63,3 +63,11 @@ A curated list of awesome fabrication resources.
 
 [kisslicer]: https://www.kisslicer.com/
 [slic3r]: https://slic3r.org/
+
+
+## Webapps
+
+- [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
+
+[Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
+
