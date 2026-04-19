@@ -60,7 +60,14 @@ A curated list of awesome fabrication resources.
 
 - [kisslicer] - Fast easy-to-use cross-platform slicer.
 - [slic3r] - G-code generator for 3D printers.
-- [Plywood Cut Optimizer](https://tools.modologystudios.com) - Free browser tool: enter your cut list, get an optimized sheet layout with waste percentage. No signup, no download. Works for 4x8, 4x10, and custom sheet sizes.
 
 [kisslicer]: https://www.kisslicer.com/
 [slic3r]: https://slic3r.org/
+
+
+## Webapps
+
+- [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
+
+[Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
+
