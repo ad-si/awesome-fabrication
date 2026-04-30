@@ -7,9 +7,14 @@ A curated list of awesome fabrication resources.
 <!-- toc -->
 
 - [3D Viewer](#3d-viewer)
+- [Articles](#articles)
+- [CAD](#cad)
 - [Converter](#converter)
 - [Host Software](#host-software)
+- [Marketplace](#marketplace)
 - [Slicer](#slicer)
+- [Tools](#tools)
+- [Webapps](#webapps)
 
 <!-- tocstop -->
 
@@ -30,14 +35,36 @@ A curated list of awesome fabrication resources.
 [va3c/viewer]: https://github.com/va3c/viewer
 
 
+## Articles
+
+- [Sub-$300 CNC If You Have A 3D Printer] - Hackaday article on building a low-cost CNC from a 3D printer.
+
+[Sub-$300 CNC If You Have A 3D Printer]: https://hackaday.com/2016/01/25/sub-300-cnc-if-you-have-a-3d-printer/
+
+
+## CAD
+
+- [Ao] - Tool for programmatic CAD using Scheme (predecessor of libfive).
+- [libfive] - Infrastructure for solid modeling.
+- [OpenSCAD] - The programmers solid 3D CAD modeller.
+- [Wings 3D] - Advanced subdivision modeler.
+
+[Ao]: http://www.mattkeeter.com/projects/ao/
+[libfive]: https://github.com/libfive/libfive
+[OpenSCAD]: https://www.openscad.org/
+[Wings 3D]: http://www.wings3d.com/
+
+
 ## Converter
 
 - [hmstl] - Generate STL triangle meshes from grayscale height-map images.
 - [papercraft] - Unfolding STL models to make laser cut patterns.
+- [pcb-stackup] - Generate stylized SVG renderings of PCBs from Gerber/drill files.
 - [stltwalker] - Scriptable interface for STL transformation and accumulation in C.
 
 [hmstl]: https://github.com/anoved/hmstl
 [papercraft]: https://github.com/osresearch/papercraft
+[pcb-stackup]: https://github.com/tracespace/pcb-stackup
 [stltwalker]: https://github.com/sshirokov/stltwalker
 
 
@@ -56,6 +83,13 @@ A curated list of awesome fabrication resources.
 [Repetier]: https://www.repetier.com/
 
 
+## Marketplace
+
+- [CGTrader] - 3D model marketplace for VR/AR, gaming, 3D printing, and architecture.
+
+[CGTrader]: https://www.cgtrader.com/
+
+
 ## Slicer
 
 - [kisslicer] - Fast easy-to-use cross-platform slicer.
@@ -63,6 +97,13 @@ A curated list of awesome fabrication resources.
 
 [kisslicer]: https://www.kisslicer.com/
 [slic3r]: https://slic3r.org/
+
+
+## Tools
+
+- [Woodpeckers] - Precision woodworking tools and accessories.
+
+[Woodpeckers]: https://www.woodpeck.com/
 
 
 ## Webapps
