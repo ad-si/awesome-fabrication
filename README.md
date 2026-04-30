@@ -68,6 +68,10 @@ A curated list of awesome fabrication resources.
 ## Webapps
 
 - [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
+- [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
+- [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
+[ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
+[ThreeDee AI 3D Generator]: https://www.threedee.design/products/ai-3d-generator/
 
