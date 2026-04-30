@@ -47,11 +47,13 @@ A curated list of awesome fabrication resources.
 - [Ao] - Tool for programmatic CAD using Scheme (predecessor of libfive).
 - [libfive] - Infrastructure for solid modeling.
 - [OpenSCAD] - The programmers solid 3D CAD modeller.
+- [Plasticity] - Solid and surface modeling desktop app. (commercial)
 - [Wings 3D] - Advanced subdivision modeler.
 
 [Ao]: http://www.mattkeeter.com/projects/ao/
 [libfive]: https://github.com/libfive/libfive
 [OpenSCAD]: https://www.openscad.org/
+[Plasticity]: https://www.plasticity.xyz
 [Wings 3D]: http://www.wings3d.com/
 
 
