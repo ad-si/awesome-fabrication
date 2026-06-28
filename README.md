@@ -59,11 +59,13 @@ A curated list of awesome fabrication resources.
 
 ## Converter
 
+- [CovertItAll] - Free in-browser unit converters and practical calculators (length, weight, temperature, electronics, EV, solar, 3D printing). No signup.
 - [hmstl] - Generate STL triangle meshes from grayscale height-map images.
 - [papercraft] - Unfolding STL models to make laser cut patterns.
 - [pcb-stackup] - Generate stylized SVG renderings of PCBs from Gerber/drill files.
 - [stltwalker] - Scriptable interface for STL transformation and accumulation in C.
 
+[CovertItAll]: https://covertitall.com
 [hmstl]: https://github.com/anoved/hmstl
 [papercraft]: https://github.com/osresearch/papercraft
 [pcb-stackup]: https://github.com/tracespace/pcb-stackup
