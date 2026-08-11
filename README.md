@@ -114,6 +114,7 @@ A curated list of awesome fabrication resources.
 - [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
 - [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 - [SimplexGen] - Web app to generate 3D models from text or images, with built-in mesh editing (simplify, smooth, subdivide, repair, retopology, boolean, UV unwrap, sculpting) and 3D-print prep.
+- [ToolHuts Fabrication](https://toolhuts.com/fabrication) - Sheet-metal flat pattern development in the browser: cones, square-to-round transitions, eccentric reducers, segmented elbows, hoppers and screw flights, printable at full size.
 
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
 [SimplexGen]: https://simplexgen.com
