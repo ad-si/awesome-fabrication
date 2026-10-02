@@ -59,6 +59,7 @@ A curated list of awesome fabrication resources.
 
 ## Converter
 
+- [Free 3D Text Generator](https://avdeb.com/tools/text-to-stl/) - Turn text into 3D-printable STL files.
 - [hmstl] - Generate STL triangle meshes from grayscale height-map images.
 - [papercraft] - Unfolding STL models to make laser cut patterns.
 - [pcb-stackup] - Generate stylized SVG renderings of PCBs from Gerber/drill files.
