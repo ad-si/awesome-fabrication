@@ -110,11 +110,13 @@ A curated list of awesome fabrication resources.
 
 ## Webapps
 
+- [NestForge] (commercial) - Browser-based DXF/SVG sheet nesting with free calculation and preview, and paid export for larger jobs.
 - [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
-- [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
-- [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 - [SimplexGen] - Web app to generate 3D models from text or images, with built-in mesh editing (simplify, smooth, subdivide, repair, retopology, boolean, UV unwrap, sculpting) and 3D-print prep.
+- [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
+- [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
 
+[NestForge]: https://madegrain.com/nestforge/?utm_source=awesome-fabrication&utm_medium=directory
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
 [SimplexGen]: https://simplexgen.com
 [ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
