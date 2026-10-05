@@ -110,11 +110,13 @@ A curated list of awesome fabrication resources.
 
 ## Webapps
 
+- [Filament Cost Calculator] - Works out the filament cost of a 3D print from grams or meters, spool price and spool weight.
 - [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
 - [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
 - [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 - [SimplexGen] - Web app to generate 3D models from text or images, with built-in mesh editing (simplify, smooth, subdivide, repair, retopology, boolean, UV unwrap, sculpting) and 3D-print prep.
 
+[Filament Cost Calculator]: https://filamentpricetracker.com/tools/filament-cost-calculator.html
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
 [SimplexGen]: https://simplexgen.com
 [ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
