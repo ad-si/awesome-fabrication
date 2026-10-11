@@ -114,9 +114,11 @@ A curated list of awesome fabrication resources.
 - [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
 - [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 - [SimplexGen] - Web app to generate 3D models from text or images, with built-in mesh editing (simplify, smooth, subdivide, repair, retopology, boolean, UV unwrap, sculpting) and 3D-print prep.
+- [Spoolyard] - Open-source piping isometrics and spool fabrication drawings with cut lengths, weld maps and BOMs, runs in the browser.
 
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
 [SimplexGen]: https://simplexgen.com
+[Spoolyard]: https://github.com/braedonsaunders/spoolyard
 [ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
 [ThreeDee AI 3D Generator]: https://www.threedee.design/products/ai-3d-generator/
 
