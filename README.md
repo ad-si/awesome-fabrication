@@ -62,6 +62,7 @@ A curated list of awesome fabrication resources.
 - [hmstl] - Generate STL triangle meshes from grayscale height-map images.
 - [papercraft] - Unfolding STL models to make laser cut patterns.
 - [pcb-stackup] - Generate stylized SVG renderings of PCBs from Gerber/drill files.
+- [STLFixer](https://stlfixer.io/converter/step-to-stl) - Browser-based STEP/STP-to-STL converter with adjustable tessellation. 
 - [stltwalker] - Scriptable interface for STL transformation and accumulation in C.
 
 [hmstl]: https://github.com/anoved/hmstl
