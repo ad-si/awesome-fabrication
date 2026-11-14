@@ -75,12 +75,14 @@ A curated list of awesome fabrication resources.
 - [CuraEngine] - C++ console application for 3D printing GCode generation.
 - [LaserWeb] - Self hosted web interface for your laser or cnc mill.
 - [octoprint.org] - Self hosted web interface for your 3D printer.
+- [Printer Tools] (commercial) - Native Apple and Android app to monitor and manage 3D printers from different brands, with live print status, cameras, and file management.
 - [Printrun] - Pure Python 3d printing host software.
 - [Repetier] - All in one 3D-printing software.
 
 [CuraEngine]: https://github.com/Ultimaker/CuraEngine
 [LaserWeb]: https://github.com/LaserWeb/LaserWeb4
 [octoprint.org]: https://octoprint.org
+[printer tools]: https://printertools.app/
 [Printrun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
 
